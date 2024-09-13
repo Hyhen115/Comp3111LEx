@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c61a4d-1afd-4f99-bf58-0423ad1116ad" name="Changes" comment="">
+    <list default="true" id="b7c61a4d-1afd-4f99-bf58-0423ad1116ad" name="Changes" comment="Add 2 print lines as report heading">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +33,8 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.mainApp1.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "Repository.Attach.Annotations": "false",
     "Repository.Attach.JavaDocs": "false",
@@ -73,11 +69,44 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1726220913441</updated>
-      <workItem from="1726220914483" duration="451000" />
+      <workItem from="1726220914483" duration="756000" />
     </task>
+    <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx project">
+      <option name="closed" value="true" />
+      <created>1726221495414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1726221495414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add 2 print lines as report heading">
+      <option name="closed" value="true" />
+      <created>1726221581643</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1726221581643</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is an initial commit for Comp3111LEx project" />
+    <MESSAGE value="Add 2 print lines as report heading" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
   </component>
 </project>
