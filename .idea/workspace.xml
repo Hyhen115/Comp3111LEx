@@ -4,8 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b7c61a4d-1afd-4f99-bf58-0423ad1116ad" name="Changes" comment="Add 3rd print line">
+    <list default="true" id="b7c61a4d-1afd-4f99-bf58-0423ad1116ad" name="Changes" comment="add mainApp1()">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2a/Score.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2a/mainApp2a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2b/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2b/mainApp2b.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2c/Charger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2c/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2c/MobileComputer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2c/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Lab2c/mainApp2c.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Lab1/mainApp1.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +42,38 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;Application.mainApp1.executor&quot;: &quot;Run&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "Application.mainApp1.executor": "Run",
+    "Application.mainApp2a.executor": "Run",
+    "Application.mainApp2b.executor": "Run",
+    "Application.mainApp2c.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/Lab2c" />
+      <recent name="$PROJECT_DIR$/src/main/java/Lab2b" />
+      <recent name="$PROJECT_DIR$/src/main/java/Lab2a" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,6 +92,8 @@
       <updated>1726220913441</updated>
       <workItem from="1726220914483" duration="756000" />
       <workItem from="1726221675623" duration="512000" />
+      <workItem from="1726222200811" duration="239000" />
+      <workItem from="1726540622353" duration="2408000" />
     </task>
     <task id="LOCAL-00001" summary="This is an initial commit for Comp3111LEx project">
       <option name="closed" value="true" />
@@ -96,7 +119,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726222078532</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mainApp1()">
+      <option name="closed" value="true" />
+      <created>1726222368234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726222368234</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -116,6 +147,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="This is an initial commit for Comp3111LEx project" />
     <MESSAGE value="Add 2 print lines as report heading" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add 2 print lines as report heading" />
+    <MESSAGE value="add mainApp1()" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mainApp1()" />
   </component>
 </project>
